@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+ollama
+python-multipart
+sqlalchemy
+requests
+pandas
+plotly
+openai
+anthropic
+google-genai

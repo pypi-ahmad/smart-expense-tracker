@@ -1,0 +1,22 @@
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Database (Don't push your personal expenses!)
+expenses.db
+backend/expenses.db
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
