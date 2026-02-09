@@ -48,7 +48,7 @@ A powerful, AI-driven expense tracking application that allows you to scan recei
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/smart-expense-tracker.git
+    git clone https://github.com/pypi-ahmad/smart-expense-tracker.git
     cd smart-expense-tracker
     ```
 
